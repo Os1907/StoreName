@@ -171,7 +171,7 @@ export default function Categories() {
                 <img
                   src={image1}
                   alt=""
-                  className="  size-[260px]"
+                  className="  size-[200px]"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -204,7 +204,7 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" size-[260px]"
+                  className=" size-[200px]"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
@@ -228,7 +228,7 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className="size-[260px]"
+                  className="size-[200px]"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
@@ -252,7 +252,7 @@ export default function Categories() {
                 <img
                   src={image1}
                   alt=""
-                  className=" size-[260px]"
+                  className=" size-[200px]"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -285,7 +285,7 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" size-[260px]"
+                  className=" size-[200px]"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -309,7 +309,7 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className="size-[260px]"
+                  className="size-[200px]"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
