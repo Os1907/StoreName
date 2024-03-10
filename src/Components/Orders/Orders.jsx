@@ -96,8 +96,8 @@ export default function Orders() {
                     }}
                     className={
                       changeName
-                        ? "mainText text-sm font-bold text-left mb-2 pointer "
-                        : "font-light mb-2 text-sm pointer"
+                        ? "mainText text-[13px] font-bold text-left mb-2 pointer "
+                        : "font-light mb-2 text-[13px] pointer"
                     }
                   >
                     Change password

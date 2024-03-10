@@ -39,7 +39,7 @@ export default function WishList() {
                       sale 20%
                     </p>
                   </div>
-                  <img src={heart} alt="" className="top-5 left-5 absolute" />
+                  <img src={heart} alt="" className="top-3 left-3 absolute size-4  " />
                 </div>
               </div>
             </div>
@@ -61,7 +61,7 @@ export default function WishList() {
                     {" "}
                     EGP 3,495
                   </p>
-                  <img src={heart} alt="" className="top-5 left-5 absolute" />
+                  <img src={heart} alt="" className="top-2 left-2 absolute size-4" />
                 </div>
               </div>
             </div>
@@ -83,7 +83,7 @@ export default function WishList() {
                     {" "}
                     EGP 3,495
                   </p>
-                  <img src={heart} alt="" className="top-5 left-5 absolute" />
+                  <img src={heart} alt="" className="top-2 left-2 absolute size-4" />
                 </div>
               </div>
             </div>
@@ -115,7 +115,7 @@ export default function WishList() {
                       sale 20%
                     </p>
                   </div>
-                  <img src={heart} alt="" className="top-5 left-5 absolute" />
+                  <img src={heart} alt="" className="top-2 left-2 absolute size-4" />
                 </div>
               </div>
             </div>
