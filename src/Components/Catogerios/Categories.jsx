@@ -171,17 +171,17 @@ export default function Categories() {
                 <img
                   src={image1}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className="  size-[260px]"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
                 </p>
                 <div className="flex  items-center ">
-                  <p className="md:text-sm  text-[10px] font-bold ml-2 inline text-[#D83C3C]">
+                  <p className="md:text-sm  text-[9px] font-bold ml-2 inline text-[#D83C3C]">
                     {" "}
                     EGP 3,495
                   </p>
-                  <span className="line-through md:text-[10px] text-[8px] inline-block ml-2 font-light">
+                  <span className="line-through md:text-[10px] text-[7px] inline-block ml-2 font-light">
                     EGP 5,495
                   </span>
                 </div>
@@ -204,13 +204,13 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className=" size-[260px]"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
                 </p>
                 <div className="flex  items-center ">
-                  <p className="md:text-sm  text-[10px] font-bold ml-2 inline mainText">
+                  <p className="md:text-sm  text-[9px] font-bold ml-2 inline mainText">
                     {" "}
                     EGP 3,495
                   </p>
@@ -228,13 +228,13 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className="size-[260px]"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
                 </p>
                 <div className="flex  items-center ">
-                  <p className="md:text-sm  text-[10px] font-bold ml-2 inline mainText">
+                  <p className="md:text-sm  text-[9px] font-bold ml-2 inline mainText">
                     {" "}
                     EGP 3,495
                   </p>
@@ -252,17 +252,17 @@ export default function Categories() {
                 <img
                   src={image1}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className=" size-[260px]"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
                 </p>
                 <div className="flex  items-center ">
-                  <p className="md:text-sm  text-[10px] font-bold ml-2 inline text-[#D83C3C]">
+                  <p className="md:text-sm  text-[9px] font-bold ml-2 inline text-[#D83C3C]">
                     {" "}
                     EGP 3,495
                   </p>
-                  <span className="line-through md:text-[10px] text-[8px] inline-block ml-2 font-light">
+                  <span className="line-through md:text-[10px] text-[7px] inline-block ml-2 font-light">
                     EGP 5,495
                   </span>
                 </div>
@@ -285,13 +285,13 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className=" size-[260px]"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
                 </p>
                 <div className="flex  items-center ">
-                  <p className="md:text-sm  text-[11px] font-bold ml-2 inline mainText">
+                  <p className="md:text-sm  text-[9px] font-bold ml-2 inline mainText">
                     {" "}
                     EGP 3,495
                   </p>
@@ -309,13 +309,13 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className="size-[260px]"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
                 </p>
                 <div className="flex  items-center ">
-                  <p className="md:text-sm  text-[10px] font-bold ml-2 inline mainText">
+                  <p className="md:text-sm  text-[9px] font-bold ml-2 inline mainText">
                     {" "}
                     EGP 3,495
                   </p>

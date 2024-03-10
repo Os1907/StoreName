@@ -50,7 +50,7 @@ export default function Carousel() {
       <Link to='/categories'>
 
         <div className='flex flex-col items-left md:mr-10 '>
-        <img src={image2} alt=""/>
+        <img src={image2} alt="" className='lg:size-[580px]'/>
         <p className=' text-sm md:text-lg font-medium  ml-10 md:ml-20    md:mt-[-20px] lg:mt[-40px]'>Coffec Corner</p>
         </div>
         </Link>
@@ -67,7 +67,7 @@ export default function Carousel() {
         
       <div className='  flex justify-start  md:mr-20'>
         <div className='flex flex-col md:items-left md:mr-10 '>
-        <img src={image1} alt=""  />
+        <img src={image1} alt=""  className='lg:size-[580px]'/>
         <p className=' text-sm md:text-lg font-medium  md:ml-20 ml-10     md:mt-[-20px] lg:mt[-40px]'>Cooking tools</p>
         </div>
         </div>
@@ -85,7 +85,7 @@ export default function Carousel() {
 
       <div className='  flex  justify-start   md:mr-20 '>
         <div className='flex flex-col items-left md:mr-10 '>
-        <img src={image2} alt=""/>
+        <img src={image2} alt="" className='lg:size-[580px]'/>
         <p className=' text-sm md:text-lg font-medium  ml-10 md:ml-20      md:mt-[-20px] lg:mt[-40px]'>Coffec Corner</p>
         </div>
         </div>
@@ -102,7 +102,7 @@ export default function Carousel() {
 
       <div className='  flex justify-start  md:mr-20'>
         <div className='flex flex-col md:items-left md:mr-10 '>
-        <img src={image1} alt=""  />
+        <img src={image1} alt="" className='lg:size-[580px]' />
         <p className=' text-sm md:text-lg font-medium  md:ml-20 ml-10   md:mt-[-20px] lg:mt[-40px]'>Cooking tools</p>
         </div>
         </div>
