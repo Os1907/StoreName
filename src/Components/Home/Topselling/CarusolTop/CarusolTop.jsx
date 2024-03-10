@@ -55,13 +55,13 @@ export default function CarousolTop() {
 
         <div className=" p-3 md:px-0 ">
           <div>
-            <div className="  flex  justify-start ">
+            <div className="  flex  justify-start  ">
       <Link to='/homeproduct'>
-              <div className="flex flex-col items-left relative pointer ">
+              <div className="flex flex-col items-left relative pointer">
                 <img
                   src={image1}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className=" md:size-[260px] size-[180px] "
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -80,7 +80,7 @@ export default function CarousolTop() {
                     sale 20%
                   </p>
                 </div>
-                <img src={heart} alt="" className="top-5 left-5 absolute" />
+                <img src={heart} alt="" className="top-5 left-5 absolute " />
               </div>
         </Link>
             </div>
@@ -96,7 +96,7 @@ export default function CarousolTop() {
                 <img
                   src={image2}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className=" md:size-[260px] size-[180px]"
                 />
                 <p className="md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -121,7 +121,7 @@ export default function CarousolTop() {
                 <img
                   src={image3}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className=" md:size-[260px] size-[180px]"
                 />
                 <p className="md:text-lg text-left text-[11px]  font-medium ml-2">
                   Product name
@@ -146,7 +146,7 @@ export default function CarousolTop() {
                 <img
                   src={image4}
                   alt=""
-                  className=" md:h-[260px] md:w-[260px]"
+                  className="md:size-[260px] size-[180px]"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2 ">
                   Product name
