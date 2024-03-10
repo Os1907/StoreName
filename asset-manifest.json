@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/StoreName/static/css/main.85ec09cb.css",
-    "main.js": "/StoreName/static/js/main.bab414f8.js",
+    "main.css": "/StoreName/static/css/main.82d7e199.css",
+    "main.js": "/StoreName/static/js/main.ee16eaa9.js",
     "static/js/453.ac6cadf4.chunk.js": "/StoreName/static/js/453.ac6cadf4.chunk.js",
     "static/media/Video@2x.png": "/StoreName/static/media/Video@2x.cb4c0df402dfc1870526.png",
     "static/media/WhatsApp Image 2021-08-31 at 5.57.47 PM@2x.png": "/StoreName/static/media/WhatsApp Image 2021-08-31 at 5.57.47 PM@2x.5137fb994b0382cfd6a4.png",
@@ -28,12 +28,12 @@
     "static/media/Group 3927.svg": "/StoreName/static/media/Group 3927.1325cbe59f9280d33890ca1d92c0d964.svg",
     "static/media/slick.woff": "/StoreName/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/StoreName/index.html",
-    "main.85ec09cb.css.map": "/StoreName/static/css/main.85ec09cb.css.map",
-    "main.bab414f8.js.map": "/StoreName/static/js/main.bab414f8.js.map",
+    "main.82d7e199.css.map": "/StoreName/static/css/main.82d7e199.css.map",
+    "main.ee16eaa9.js.map": "/StoreName/static/js/main.ee16eaa9.js.map",
     "453.ac6cadf4.chunk.js.map": "/StoreName/static/js/453.ac6cadf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85ec09cb.css",
-    "static/js/main.bab414f8.js"
+    "static/css/main.82d7e199.css",
+    "static/js/main.ee16eaa9.js"
   ]
 }
