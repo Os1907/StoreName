@@ -34,7 +34,7 @@ export default function Footer() {
 
     <div className='flex items-center '>
     <img src={facebook} alt="" className='w-[10px] h-[14px] ml-[20px] mr-5' /> 
-    <a className="link link-hover ml-1"> Facbook</a>
+    <a className="link link-hover ml-1"> Facebook</a>
     </div>
     <div className='flex items-center  '>
     <img src={twitter} alt="" className='w-[14px] h-[14px] mx-5' /> 

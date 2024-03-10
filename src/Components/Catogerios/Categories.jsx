@@ -171,7 +171,7 @@ export default function Categories() {
                 <img
                   src={image1}
                   alt=""
-                  className="  size-[200px]"
+                  className="  md:size-[220px] w-48 h-40"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -186,11 +186,11 @@ export default function Categories() {
                   </span>
                 </div>
                 <div className="absolute top-0 md:right-2 right-0">
-                  <p className=" bg-[#D83C3C] inline px-2 p-1 rounded-[5px] md:text-[11px] text-[10px] text-white">
+                  <p className=" bg-[#D83C3C] inline px-2 p-1 rounded-[5px] md:text-[11px] text-[8px] text-white">
                     sale 20%
                   </p>
                 </div>
-                <img src={heart} alt="" className="top-5 left-5 absolute" />
+                <img src={heart} alt="" className="top-4 left-3 absolute size-4" />
               </div>
               </Link>
 
@@ -204,7 +204,7 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" size-[200px]"
+                  className=" md:size-[220px] w-48 h-40"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
@@ -215,7 +215,7 @@ export default function Categories() {
                     EGP 3,495
                   </p>
                 </div>
-                <img src={heart} alt="" className="top-5 left-5 absolute" />
+                <img src={heart} alt="" className="top-4 left-3 absolute size-4" />
               </div>
               </Link>
 
@@ -228,7 +228,7 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className="size-[200px]"
+                  className="md:size-[220px] w-48 h-40"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
@@ -239,7 +239,7 @@ export default function Categories() {
                     EGP 3,495
                   </p>
                 </div>
-                <img src={heart} alt="" className="top-5 left-5 absolute" />
+                <img src={heart} alt="" className="top-4 left-3 absolute size-4" />
               </div>
               </Link>
 
@@ -252,7 +252,7 @@ export default function Categories() {
                 <img
                   src={image1}
                   alt=""
-                  className=" size-[200px]"
+                  className=" md:size-[220px] w-48 h-40"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -267,11 +267,11 @@ export default function Categories() {
                   </span>
                 </div>
                 <div className="absolute top-0 md:right-2 right-0">
-                  <p className=" bg-[#D83C3C] inline px-2 p-1 rounded-[5px] md:text-[10px] text-[10px] text-white">
+                  <p className=" bg-[#D83C3C] inline px-2 p-1 rounded-[5px] md:text-[10px] text-[8px] text-white">
                     sale 20%
                   </p>
                 </div>
-                <img src={heart} alt="" className="top-5 left-5 absolute" />
+                <img src={heart} alt="" className="top-4 left-3 absolute size-4" />
               </div>
               </Link>
 
@@ -285,7 +285,7 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" size-[200px]"
+                  className=" md:size-[220px] w-48 h-40"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -296,7 +296,7 @@ export default function Categories() {
                     EGP 3,495
                   </p>
                 </div>
-                <img src={heart} alt="" className="top-5 left-5 absolute" />
+                <img src={heart} alt="" className="top-4 left-3 absolute size-4" />
               </div>
               </Link>
 
@@ -309,7 +309,7 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className="size-[200px]"
+                  className="md:size-[220px] w-48 h-40"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
@@ -320,7 +320,7 @@ export default function Categories() {
                     EGP 3,495
                   </p>
                 </div>
-                <img src={heart} alt="" className="top-5 left-5 absolute" />
+                <img src={heart} alt="" className="top-4 left-3 absolute size-4" />
               </div>
               </Link>
 
