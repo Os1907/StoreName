@@ -37,7 +37,7 @@ export default function Orders() {
                   <p>User name</p>
                   <p className="mt-[-2px]">exmple@email.com</p>
                 </div>
-                <div className="lg:mt-10 mt-2  flex flex-col mx-12 mainText items-center lg:items-start">
+                <div className="lg:mt-10 mt-2  flex flex-col mx-12 mainText items-center lg:items-start ">
                   <p
                     onClick={() => {
                       setmyOrder(true);
@@ -48,8 +48,8 @@ export default function Orders() {
                     }}
                     className={
                       myOrder
-                        ? "mainText text-[15px] font-bold text-left mb-2 pointer "
-                        : "font-light mb-2 text-[15px] pointer"
+                        ? "mainText text-sm font-bold text-left mb-2 pointer px-2"
+                        : "font-light mb-2 text-sm pointer "
                     }
                   >
                     My orders
@@ -64,8 +64,8 @@ export default function Orders() {
                     }}
                     className={
                       adresses
-                        ? "mainText text-[15px] font-bold text-left mb-2 pointer "
-                        : "font-light mb-2 text-[15px] pointer"
+                        ? "mainText text-sm font-bold text-left mb-2 pointer "
+                        : "font-light mb-2 text-sm pointer"
                     }
                   >
                     Addresses
@@ -80,8 +80,8 @@ export default function Orders() {
                     }}
                     className={
                       Contact
-                        ? "mainText text-[15px] font-bold text-left mb-2 pointer "
-                        : "font-light mb-2 text-[15px] pointer"
+                        ? "mainText text-sm font-bold text-left mb-2 pointer "
+                        : "font-light mb-2 text-sm pointer"
                     }
                   >
                     Contact details
@@ -96,8 +96,8 @@ export default function Orders() {
                     }}
                     className={
                       changeName
-                        ? "mainText text-[15px] font-bold text-left mb-2 pointer "
-                        : "font-light mb-2 text-[15px] pointer"
+                        ? "mainText text-sm font-bold text-left mb-2 pointer "
+                        : "font-light mb-2 text-sm pointer"
                     }
                   >
                     Change password
@@ -112,8 +112,8 @@ export default function Orders() {
                     }}
                     className={
                       wishlist
-                        ? "mainText text-[15px] font-bold text-left mb-2 pointer "
-                        : "font-light mb-2 text-[15px] pointer"
+                        ? "mainText text-sm font-bold text-left mb-2 pointer "
+                        : "font-light mb-2 text-sm pointer"
                     }
                   >
                     Wish list

@@ -167,11 +167,11 @@ export default function Categories() {
             <div className="  col-span-4 flex  justify-start ">
             <Link to='/homeproduct'>
 
-              <div className="flex flex-col items-left relative ">
+              <div className="flex flex-col items-left relative  ">
                 <img
                   src={image1}
                   alt=""
-                  className="  md:size-[220px] w-48 h-40"
+                  className="  md:size-[220px] w-48 h-36"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -204,7 +204,7 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" md:size-[220px] w-48 h-40"
+                  className=" md:size-[220px] w-48 h-36"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
@@ -228,7 +228,7 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className="md:size-[220px] w-48 h-40"
+                  className="md:size-[220px] w-48 h-36"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
@@ -252,7 +252,7 @@ export default function Categories() {
                 <img
                   src={image1}
                   alt=""
-                  className=" md:size-[220px] w-48 h-40"
+                  className=" md:size-[220px] w-48 h-36"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -285,7 +285,7 @@ export default function Categories() {
                 <img
                   src={image2}
                   alt=""
-                  className=" md:size-[220px] w-48 h-40"
+                  className=" md:size-[220px] w-48 h-36"
                 />
                 <p className=" md:text-lg text-left text-[11px] font-medium ml-2">
                   Product name
@@ -309,7 +309,7 @@ export default function Categories() {
                 <img
                   src={image3}
                   alt=""
-                  className="md:size-[220px] w-48 h-40"
+                  className="md:size-[220px] w-48 h-36"
                 />
                 <p className=" md:text-lg text-left text-[10px] font-medium ml-2">
                   Product name
